@@ -10,13 +10,13 @@ class Book
     @title
   end 
   
-  def author=(author)   #setter
-    @author = author 
-  end 
+  # def author=(author)   #setter
+  #   @author = author 
+  # end 
   
-  def author   #getter 
-    @author 
-  end 
+  # def author   #getter 
+  #   @author 
+  # end 
   
   # def page_count=(num)   #setter
   #   @page_count = num 
